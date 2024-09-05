@@ -39,7 +39,7 @@
   <body>
     <style>
       body {
-  background: #F8FA50;
+  background: #f0f0f5;
   font-family: "Nunito", sans-serif;
 }
 
@@ -112,7 +112,7 @@ a:focus {
 #sidebar .sidebar-header i {
   font-size: 2rem;
   color: yellow;
-  background: black;
+  background: #f0f0f5;
   padding: 2rem;
   border-radius: 48%;
 }

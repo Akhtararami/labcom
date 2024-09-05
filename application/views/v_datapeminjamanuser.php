@@ -18,17 +18,17 @@
     <p>2.] harus konfirmasi ke petugas labkom sebelum mengembalikkan.</p>
 </div>
 <div class="tabel p-5">
-          <table id="example" class="tabel table-striped table-bordered" style="width:100%; font-size: 0.8rem;" >
+          <table id="example" class="tabel table-responsive table-bordered table-responsive" style="width:100%; font-size: 0.8rem;" >
             <thead style="text-align: center;">
                 <tr>
                     <th style="width: 2%;">No</th>
                     <th style="width: 10%;">Nama</th>
-                    <th style="text-align: center; width: 5%;">Tgl Peminjaman</th>
-                    <th style="text-align: center; width: 5%;">Tgl Pengembalian</th>
+                    <th style="text-align: center; ">Tgl Peminjaman</th>
+                    <th style="text-align: center; ">Tgl Pengembalian</th>
                     <th style="text-align: center;">Nama Barang(No. Seri)</th>
-                    <th style="text-align: center; width: 5%;">Jumlah</th>
-                    <th style="width: 20%;">Keterangan</th>
-                    <th style="text-align: center; width: 15%;">Aksi</th>
+                    <th style="text-align: center; ">Jumlah</th>
+                    <th >Keterangan</th>
+                    <th style="text-align: center;">Aksi</th>
                 </tr>
             </thead>
             <tbody>

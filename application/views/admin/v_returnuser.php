@@ -64,7 +64,7 @@
                 </tr>
             </tfoot>
         </table>
-        <a href="<?=base_url('peminjamanadmin')?>" class="btn btn-warning mt-3"><i class="fa-solid fa-backward"></i> Kembali</a>
+        <a href="<?=base_url('home')?>" class="btn btn-warning mt-3"><i class="fa-solid fa-backward"></i> Kembali</a>
         </div>
         </div>
       </div>

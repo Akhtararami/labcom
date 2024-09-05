@@ -18,7 +18,7 @@ class Inventarisadmin extends CI_Controller{
                 'page' => 'v_inventaris',
             );
 
-            $this->load->view('admin/v_templateadmin', $data, false);
+            $this->load->view('v_inventaris');
         }else {
         $data = array(
             'nama_barang' => $this->input->post('nama_barang'),
